@@ -1,0 +1,17 @@
+[remap]
+
+importer="csv_translation"
+type="Translation"
+uid="uid://dccf5qs7kturx"
+
+[deps]
+
+files=["res://jupyterNotebook/scores.Score.translation", "res://jupyterNotebook/scores. EnemySpeed.translation"]
+
+source_file="res://jupyterNotebook/scores.csv"
+dest_files=["res://jupyterNotebook/scores.Score.translation", "res://jupyterNotebook/scores. EnemySpeed.translation"]
+
+[params]
+
+compress=true
+delimiter=0
